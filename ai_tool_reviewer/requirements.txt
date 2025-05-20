@@ -1,0 +1,20 @@
+# gradio for the web UI
+gradio
+
+# smolagents for agent workflows (Hugging Face)
+smolagents
+
+# LangChain for LLM chains and routing
+langchain
+
+# Hugging Face Hub for Inference API (HfApiModel)
+huggingface_hub
+
+# Requests and BeautifulSoup for web scraping
+requests
+beautifulsoup4
+
+# For optional search tools (e.g., DuckDuckGo)
+duckduckgo-search
+
+# Logging (standard)
